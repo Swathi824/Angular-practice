@@ -1,0 +1,16 @@
+*{
+    font-family: play;
+}
+h1{
+    color: red;
+    font-size: 25px;
+    font-family: play;
+}
+.inputbox{
+    right: 30px;
+    left: 30%;
+
+    
+    
+    padding: 10px;
+}
